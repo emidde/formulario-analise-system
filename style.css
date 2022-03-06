@@ -85,7 +85,7 @@ form {
 }
 
 .content-price {
-    margin: 15.5rem 1rem 1rem 2rem;
+    margin: 13.5rem 1rem 1rem 2rem;
 }
 
 .content-price p {
@@ -132,9 +132,6 @@ form {
     margin-top: 20px;
 }
 
-.grade-curricular {
-    margin: 1rem 6rem 2rem 6rem;
-}
 
 .grade-curricular a {
     color: white;

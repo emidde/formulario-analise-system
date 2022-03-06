@@ -69,8 +69,6 @@ form {
 .background-imagem img {
     width: 100%;
     position: absolute;
-    height: 25%;
-    max-height: 35%;
 }
 
 .text-grad {
